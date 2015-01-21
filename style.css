@@ -12,3 +12,6 @@ li {
 p {
   color: Black;
 }
+.well {
+  opacity:0.5;
+}
